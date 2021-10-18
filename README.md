@@ -1,4 +1,4 @@
-<h4 align="center" style="display:inline;">Hi I'm</h4> <h1 align="center" style="display:inline;">Anant Kumawat</h1>
+<span>Hi I'm</span> <h1 align="center">Anant Kumawat</h1>
 <h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
