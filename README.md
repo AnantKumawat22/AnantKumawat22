@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Anant Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer | Problem Solving | Data Structure & Algorithm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantkumawat22&label=Profile%20views&color=0e75b6&style=flat" alt="anantkumawat22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anantkumawat22" alt="anantkumawat22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://anantkumawat22.github.io/Anant-Kumawat_Portfolio/#/](https://anantkumawat22.github.io/Anant-Kumawat_Portfolio/#/)
+
+- 📫 How to reach me **anantkumawat22@gmail.com**
+
+- ⚡ Fun fact **I have good sense of humour. 😜**
 
 
 <h3 align="left">Languages and Tools:</h3>
