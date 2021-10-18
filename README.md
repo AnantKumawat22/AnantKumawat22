@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/6_-osAtLuHUAAAAj/wave-cute.gif" width="50" height="50" /> , I'm Abhishek Jha ☺</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/6_-osAtLuHUAAAAj/wave-cute.gif" width="50" height="50" /> , I'm Anant Kumawat ☺</h1>
 <h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 📫 How to reach me *abhishekjhagwl@gmail.com*
+- 📫 How to reach me *@gmail.com*
 
 - 😎  About Me: I enjoy eating sweets, dark chocolate, fast food, mangoes, and almost anything that has cheese in it.
 
